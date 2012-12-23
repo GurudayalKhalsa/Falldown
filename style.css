@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+	overflow: hidden;
+}
+canvas{ 
+  text-align: center;
+  box-shadow: 0px 0px 5px #444;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 2px;
+}
+#fswrap{
+	width: 100%;
+	position: fixed;
+}
+#fsbtn{
+	width: 100px;
+	height: 30px;
+	font: 1em "Verdana", Arial, Helvetica, Geneva, sans-serif;
+	color: #555;
+}
